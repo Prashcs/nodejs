@@ -9,7 +9,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kaustubhai/portfolio-template.git
+$ https://github.com/Prashcs/nodejs.git
 
 # Go into the repository
 $ cd portfolio-template

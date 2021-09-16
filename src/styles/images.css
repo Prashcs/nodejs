@@ -1,43 +1,43 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('./images/bg_image.jpg');
+    background-image: url('/src/images/bg_image.jpg');
 }
 /* Projects Photo */
 .project1{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
 .project2{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
 .project3{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
 .project4{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
 .project5{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
 .project6{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
 /* Miscelaneous Activities photo */
 .misc1{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
 .misc2{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
 .misc3{
-    background-image: url('./images/proj_image.png');
+    background-image: url('/src/images/proj_image.png');
     cursor: none;
 }
